@@ -1,4 +1,4 @@
-### Hey 👋
+<h3 align="center">Hey 👋</h3>
 
 My name is _Szilárd Kátai_, I live in _Hungary_ and i really like programming.
 I usully make anything that comes to my mind. I really like to work with C++, C, but
