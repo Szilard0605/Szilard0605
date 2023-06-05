@@ -4,7 +4,7 @@ My name is _Szilárd Kátai_, I live in _Hungary_ and i really like programming.
 I usully make anything that comes to my mind. I really like to work with C++, C, but
 I worked with other languages as well, like C#, Lua, Python, and JavaScript. 
 
-I'm currently working on a Game Engine, and my goal is to publish a Multiplayer game which 
+I'm currently working on a Game Engine, and my goal is to publish a multiplayer game which 
 is built with this Game Engine.
 
 
