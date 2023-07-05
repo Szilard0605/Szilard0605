@@ -7,6 +7,7 @@ I worked with other languages as well, like C#, Lua, Python, and JavaScript.
 I'm currently working on a Game Engine, and my goal is to publish a multiplayer game which 
 is built with this Game Engine.
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Szilard0605"/></p>
 
 <!--
 **Szilard0605/Szilard0605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
