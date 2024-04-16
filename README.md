@@ -1,7 +1,7 @@
 <h3 align="center">Hey 👋</h3>
 
 My name is _Szilárd Kátai_, I live in _Hungary_ and i really like programming.
-I usully make anything that comes to my mind. I really like to work with C++, C, but
+I usually make anything that comes to my mind. I really like to work with C++, C, but
 I worked with other languages as well, as C#, Lua, Python and JavaScript. 
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Szilard0605"/></p>
